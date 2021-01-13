@@ -1,0 +1,18 @@
+{
+  "username": "Nombre de usuario",
+  "password": "Contraseña",
+  "english": "Inglés",
+  "french": "Francés",
+  "en": "Inglés",
+  "fr": "Francés",
+  "es": "Español",
+  "cancel": "Cancelar",
+  "ok": "Ok",
+  "yes": "Si",
+  "no": "No",
+  "propulsed": "*Propulsed",
+  "by": "*by",
+  "menu": "*Menu",
+  "settings": "*Settings",
+  "chooseLang": "*Choose a language"
+}
